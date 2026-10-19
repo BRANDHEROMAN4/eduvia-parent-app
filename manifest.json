@@ -1,7 +1,7 @@
 {
-  "name": "EDUVIA — متابعة وليّ الأمر",
+  "name": "EDUVIA — بوّابة وليّ الأمر",
   "short_name": "EDUVIA",
-  "description": "تابع حضور ونقاط ابنك لحظيًّا مع منظومة EDUVIA.",
+  "description": "بوّابة وليّ الأمر إلى منصّة EDUVIA: الدخول برقم الهاتف والرمز السرّي.",
   "lang": "ar",
   "dir": "rtl",
   "start_url": "./",
